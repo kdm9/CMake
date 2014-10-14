@@ -1,4 +1,4 @@
 CMake
 =====
 
-CMake Module i've written or modified
+CMake modules I've written or modified
